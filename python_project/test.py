@@ -10,12 +10,6 @@ def test1():
         b=request.json['num2']
         result=a+b
         return jsonify(str(result))
-
-
-
-
-
-
 if __name__=='__main__':
     app.run()
 
