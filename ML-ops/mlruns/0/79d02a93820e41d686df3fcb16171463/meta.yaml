@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data-Science/ineuron/ML-ops/mlruns/0/79d02a93820e41d686df3fcb16171463/artifacts
+end_time: 1688664703812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79d02a93820e41d686df3fcb16171463
+run_name: resilient-conch-193
+run_uuid: 79d02a93820e41d686df3fcb16171463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688664697742
+status: 3
+tags: []
+user_id: adity

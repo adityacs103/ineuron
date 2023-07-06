@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data-Science/ineuron/ML-ops/mlruns/0/86b83e2c04e84785b56eee957a4a83fb/artifacts
+end_time: 1688664681161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86b83e2c04e84785b56eee957a4a83fb
+run_name: upset-skunk-454
+run_uuid: 86b83e2c04e84785b56eee957a4a83fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688664675234
+status: 3
+tags: []
+user_id: adity

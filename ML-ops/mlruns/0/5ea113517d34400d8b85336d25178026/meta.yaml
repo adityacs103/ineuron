@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data-Science/ineuron/ML-ops/mlruns/0/5ea113517d34400d8b85336d25178026/artifacts
+end_time: 1688664714495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ea113517d34400d8b85336d25178026
+run_name: salty-penguin-786
+run_uuid: 5ea113517d34400d8b85336d25178026
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688664709262
+status: 3
+tags: []
+user_id: adity
