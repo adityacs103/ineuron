@@ -1,0 +1,18 @@
+2023-11-03 00:06:13,202 INFO cheking the datatype of data and new data
+2023-11-03 00:06:13,202 INFO update successful
+2023-11-03 00:06:26,239 ERROR input data [1, 2, 3, 4, 5] is not in dictionary
+2023-11-03 00:06:27,835 INFO cheking the datatype of data and new data
+2023-11-03 00:06:27,835 ERROR your 3 is not a dictionary
+2023-11-03 00:07:48,872 INFO checking the input datatype
+2023-11-03 00:07:48,872 ERROR input data [1, 2, 3, 4, 5] is not in dictionary
+2023-11-03 00:07:49,801 INFO cheking the datatype of new data
+2023-11-03 00:07:49,801 ERROR your 3 is not a dictionary
+2023-11-03 00:08:01,866 INFO checking the input datatype
+2023-11-03 00:08:01,867 ERROR input data [1, 2, 3, 4, 5] is not in dictionary
+2023-11-03 00:08:02,536 INFO cheking the datatype of new data
+2023-11-03 00:08:02,537 ERROR your 3 is not a dictionary
+2023-11-03 00:08:58,063 INFO checking the input datatype
+2023-11-03 00:08:58,063 ERROR input data [1, 2, 3, 4, 5] is not in dictionary
+2023-11-03 00:08:58,647 INFO cheking the datatype of new data
+2023-11-03 00:08:58,647 ERROR your 3 is not a dictionary
+2023-11-03 00:08:58,647 INFO update failed
